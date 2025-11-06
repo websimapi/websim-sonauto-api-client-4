@@ -1,4 +1,4 @@
-const PROXY_URL = 'https://corsproxy.io/?https://sonauto-vercel-proxy-q8vonsdie-apis-projects-1c027b53.vercel.app/api/sonauto';
+const PROXY_URL = 'https://corsproxy.io/?https://sonauto-vercel-proxy-git-main-apis-projects-1c027b53.vercel.app/api/sonauto';
 
 async function fetchApi(path, options = {}) {
     const headers = {
